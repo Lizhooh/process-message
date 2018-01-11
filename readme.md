@@ -1,6 +1,7 @@
 
 ### process-message
 
+process-massage 是一个神奇的模块，它的神奇之处在于你根本不需要知到它的存在。提供更加简明的主进程与子进程之间的通信方式。
 process-message is a magical module. The magic is that you don't need to know it exists.
 
 ```js
