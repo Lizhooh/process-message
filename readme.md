@@ -1,12 +1,11 @@
 
 ### process-message
 
-<a href="https://www.npmjs.com/package/process-massage"><img src="https://img.shields.io/npm/v/process-massage.svg" style="width: auto; height: auto"/> </a>
+<a href="https://www.npmjs.com/package/process-message"><img src="https://img.shields.io/npm/v/process-message.svg" style="width: auto; height: auto"/> </a>
 
 
-process-massage 是一个神奇的模块，它的神奇之处在于你根本不需要知到它的存在。提供更加简明的主进程与子进程之间的通信方式。
+process-message 是一个神奇的模块，它的神奇之处在于你根本不需要知到它的存在。提供更加简明的主进程与子进程之间的通信方式。
 
-<br />
 
 process-message is a magical module. The magic is that you don't need to know it exists.
 

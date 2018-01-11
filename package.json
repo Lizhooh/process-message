@@ -1,14 +1,14 @@
 {
-  "name": "process-massage",
+  "name": "process-message",
   "version": "1.0.3",
   "description": "process-message is a magical module. The magic is that you don't need to know it exists.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lizhooh/process-massage"
+    "url": "https://github.com/Lizhooh/process-message"
   },
   "keywords": [
-    "process-massage"
+    "process-message"
   ],
   "author": "lizhooh",
   "license": "ISC",
