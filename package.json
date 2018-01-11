@@ -1,6 +1,6 @@
 {
   "name": "process-massage",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "process-message is a magical module. The magic is that you don't need to know it exists.",
   "main": "index.js",
   "repository": {
